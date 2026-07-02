@@ -19,8 +19,12 @@ module.exports = {
         'card1': 'var(--shadow-card1)',
         'hover': 'var(--shadow-hover)'
       },
+      spacing: {
+        '30': '7.3rem'
+      },
       borderWidth: {
-        '1': '1px'
+        '1': '1px',
+        '3': '3px'
       }
     },
   },
