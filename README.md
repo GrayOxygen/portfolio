@@ -1,4 +1,4 @@
-# Sorolla Portfolio
+# Wang Portfolio
 
 ![./preview.png](./preview.png)
 
