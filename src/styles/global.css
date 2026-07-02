@@ -4,7 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@theme {
+:root {
     /* Colors */
     --color-pblue: #96C7F2;
     --color-pgreen: #ADF296;
@@ -12,8 +12,8 @@
     --color-pyellow: #F2CF96;
     --color-ppurlple: #9D859A;
     --color-pblack: #4E6273;
-    --color-white: #F2F2F2; /* Default override removed as it is unusual, keeping as named color */
-    
+    --color-white: #F2F2F2;
+
     /* Shadows */
     --shadow-card1: 2px 2px #000000;
     --shadow-card: 4px 4px #000000;
@@ -37,7 +37,7 @@
     /* Borders */
     --border-width-1: 1px;
     --border-width-3: 3px;
-    
+
     /* Border Colors */
     --color-border-black: #000;
     --color-border-blackRad: rgba(0,0,0,0.8);
