@@ -18,15 +18,7 @@ Poetry Collection</br>
 Edited by **Huang Canran (黄灿然), noted Chinese poet and translator**</br>
 A collection exploring nature and memory.
 
-  <div class="portrait">
-    <img src="/src/assets/Craigmillar Castle Park 1.jpg" alt="Huiyang Wang" />
-  </div>
-    <div class="portrait">
-    <img src="/src/assets/Craigmillar Castle Park 2.jpg" alt="Huiyang Wang" />
-  </div>
-    <div class="portrait">
-    <img src="/src/assets/Craigmillar Castle Park 3.jpg" alt="Huiyang Wang" />
-  </div>
-    <div class="portrait">
-    <img src="/src/assets/Craigmillar Castle Park.jpg" alt="Huiyang Wang" />
-  </div>
+![](/src/assets/Craigmillar_Castle_Park_1.jpg)
+![](/src/assets/Craigmillar_Castle_Park_2.jpg)
+![](/src/assets/Craigmillar_Castle_Park_3.jpg)
+![](/src/assets/Craigmillar_Castle_Park.jpg) 

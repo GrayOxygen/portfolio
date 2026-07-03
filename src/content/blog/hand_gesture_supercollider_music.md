@@ -1,13 +1,13 @@
 ---
-title: "Hand Gesture Supercollider Music"
+title: "Hand Gesture"
 description:
-  'Generative sound with gesture control.'
+  'Supercollider, gesture control.'
 icon: "interaction"
-pubDate: "2024"
-heroImage: "/src/assets/installation.jpg"
+pubDate: "7 Mar 2025"
+heroImage: "/src/assets/handgesture_sc.png"
 ---
 ## Hand Gesture Supercollider Music
-This project generates sound through gesture control.
+Gesture control sound generation.
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

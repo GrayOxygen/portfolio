@@ -4,10 +4,10 @@ description:
   'Soundtrack for screen live performance.'
 icon: "performance"
 pubDate: "31 Mar 2025"
-heroImage: "/src/assets/installation.jpg"
+heroImage: "/src/assets/soundtrack_performance_rehearsal.png"
 ---
 
-## Soundtrack For Screen Live Performance (And Stereo Version)
+## Soundtrack for Screen Live Performance (Stereo Version)
 I used mediapipe to implement gesture control to trigger wall pushing sound (wall sound is pre recorded with several different tones, triggered by supercollider), while other team members were responsible for foley, piano, and guitar respectively.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

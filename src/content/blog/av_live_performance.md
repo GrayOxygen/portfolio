@@ -1,19 +1,19 @@
 ---
-title: "AV Live Performance"
+title: "Live Performance"
 description:
   'Audiovisual.'
 icon: "performance"
 pubDate: "2 Dec 2024"
-heroImage: "/src/assets/installation.jpg"
+heroImage: "/src/assets/audiovisual_performance_1.jpg"
 ---
 
-## AV Live Performance
-+ Max/MSP (with Java, Javascript, BEAP module)
+## Live Performance
+Max/MSP (with Java, Javascript, BEAP module)
 This work aims to present a live music performance that generates all the sound inside Max/MSP and supports **both automatic and manual playback**. And I collaborated with PhD student Hal Xu, who specializes in Creative Music Practice at University Of Edinburgh, and he also has a background in Sound Design. Hal focused on the visual elements, while I was responsible for the audio and music components. <span style="text-decoration: underline;">On December 3rd, we delivered an engaging performance as part of his informal concert featuring **audiovisual performance** works.</span>
 
-![patcher1](https://raw.githubusercontent.com/GrayOxygen/blogmedia/5ce6a4baab31ad624cfa39d688f215e9aed63459/%E6%B5%B7%E6%8A%A5.jpg)
-![patcher1](https://raw.githubusercontent.com/GrayOxygen/blogmedia/cfa3193244e5a6c8fe25bd61ed0d57303f98ebc6/WechatIMG36044.jpg)
-![patcher2](https://raw.githubusercontent.com/GrayOxygen/blogmedia/cfa3193244e5a6c8fe25bd61ed0d57303f98ebc6/WechatIMG36045.jpg)
+![](/src/assets/audiovisual_performance_1.jpg) 
+![](/src/assets/audiovisual_performance_2.jpg) 
+![](/src/assets/audiovisual_performance_3.jpg) 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
