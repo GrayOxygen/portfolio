@@ -14,6 +14,8 @@ It's a max for live patcher. It provides some basic sound modifications for samp
 
 [Huiyang Glitch Slicer on MaxForLive](https://maxforlive.com/library/device/9827/huiyang-glitch-slicer)
 
+[▶ If the video cannot be opened, please click](https://drive.google.com/file/d/1I6ilv3HWo49XsHQuCnwEwtyr4df_SnCd/view?usp=sharing)
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
    <iframe 
     src="https://drive.google.com/file/d/1I6ilv3HWo49XsHQuCnwEwtyr4df_SnCd/preview"

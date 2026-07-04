@@ -11,6 +11,8 @@ heroImage: "../../assets/note_generator.png"
 + Max/MSP (with Javascript)
 I use a **quicksort algorithm** to organize an array of pitches. Rather than only outputting the final sorted sequence, I convert **each intermediate state of sorting the array into MIDI notes** (different tracks/instruments). As the algorithm progresses, the listener hears the pitches gradually approaching an ordered state, creating a dynamic musical process in which the evolution of order itself is experienced sonically. The process of generating in this way can continue indefinitely, and during this process, many parameter changes are supported, resulting in subtle variations in the process of generating musical notes.
 
+[▶ If the video cannot be opened, please click](https://drive.google.com/file/d/1sMtrxgKP5QhzUppbBmUg_wmOeMrTkiaH/view?usp=sharing)
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     src="https://drive.google.com/file/d/1sMtrxgKP5QhzUppbBmUg_wmOeMrTkiaH/preview"

@@ -15,16 +15,8 @@ This work aims to present a live music performance that generates all the sound 
 ![](../../assets/audiovisual_performance_2.jpg) 
 ![](../../assets/audiovisual_performance_3.jpg) 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://drive.google.com/file/u/1/d/1KPJYO7xLf8P4qHxMqUEbyrUC4Er5rA0q/preview"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    title="">
-  </iframe>
-</div>
+
+[▶ If the video cannot be opened, please click](https://drive.google.com/file/d/1YSl0pkC_Ua82OZmnJ0fXj2rRyq--5ZfQ/view?usp=sharing)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
