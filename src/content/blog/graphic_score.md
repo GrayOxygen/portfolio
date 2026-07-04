@@ -4,12 +4,12 @@ description:
   'Graphic score for soundtrack.'
 icon: "score"
 pubDate: "18 Jan 2025"
-heroImage: "/src/assets/graphic_score2.png"
+heroImage: "../../assets/graphic_score2.png"
 ---
 
 ## Graphic Score
 This track is a graphic score based on a paragraph from the Neighbouring Sounds film, and then a soundtrack is created based on the score.
-![](/src/assets/graphic_score2.png)
+![](../../assets/graphic_score2.png)
 
 
 

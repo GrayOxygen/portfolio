@@ -4,7 +4,7 @@ description:
   'Sound design.'
 icon: "raw_wave"
 pubDate: "18 Jan 2025"
-heroImage: "/src/assets/poems_sound_design.png"
+heroImage: "../../assets/poems_sound_design.png"
 ---
 
 

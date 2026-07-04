@@ -4,7 +4,7 @@ description:
   'Juce, pulsar.'
 icon: "synthesiser"
 pubDate: "2 Mar 2025"
-heroImage: "/src/assets/pulsar.png"
+heroImage: "../../assets/pulsar.png"
 ---
 
 ## Pulsar Synthesiser

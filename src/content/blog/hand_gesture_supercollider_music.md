@@ -4,7 +4,7 @@ description:
   'Supercollider, gesture control.'
 icon: "interaction"
 pubDate: "7 Mar 2025"
-heroImage: "/src/assets/handgesture_sc.png"
+heroImage: "../../assets/handgesture_sc.png"
 ---
 ## Hand Gesture Supercollider Music
 Gesture control sound generation.

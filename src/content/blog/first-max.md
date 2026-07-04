@@ -4,13 +4,13 @@ description:
   'Max for live patcher.'
 icon: "code"
 pubDate: "8 Oct 2023"
-heroImage: "/src/assets/first_maxpatcher.jpg"
+heroImage: "../../assets/first_maxpatcher.jpg"
 ---
 
 ## First Max Patcher
 It's a max for live patcher. It provides some basic sound modifications for sampling, such as speed, pitch, pitch shift, form, etc. It's a tool for quickly transforming sound.
 
-![](/src/assets/first_maxpatcher.jpg)
+![](../../assets/first_maxpatcher.jpg)
 
 [Huiyang Glitch Slicer on MaxForLive](https://maxforlive.com/library/device/9827/huiyang-glitch-slicer)
 

@@ -4,7 +4,7 @@ description:
   'Soundtrack for screen live performance.'
 icon: "performance"
 pubDate: "31 Mar 2025"
-heroImage: "/src/assets/soundtrack_performance_rehearsal.png"
+heroImage: "../../assets/soundtrack_performance_rehearsal.png"
 ---
 
 ## Soundtrack for Screen Live Performance (Stereo Version)

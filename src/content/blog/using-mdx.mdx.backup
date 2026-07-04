@@ -5,6 +5,6 @@ description:  '
 '
 icon: "2"
 pubDate: 'Jun 01 2024'
-heroImage: "/src/assets/euro.webp"
+heroImage: "../../assets/euro.webp"
 ---
 hey */}

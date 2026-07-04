@@ -4,7 +4,7 @@ description:
   'Generative midi notes.'
 icon: "code"
 pubDate: "29 Sep 2024"
-heroImage: "/src/assets/note_generator.png"
+heroImage: "../../assets/note_generator.png"
 ---
 
 ## Midi Note Generator
