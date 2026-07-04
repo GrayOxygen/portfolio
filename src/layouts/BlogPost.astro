@@ -66,9 +66,9 @@ const getRandomClass = () => {
             </h1>
             <p class="mt-6" set:html={description} />
           </div>
-          <Picture 
+            <Picture 
             fetchpriority="high"
-            loading="eager" src={images[heroImage]()}  
+            loading="eager" src={images[imageKey]()}  
             alt={title} 
             class="h-96 w-full object-cover"   
             quality={80}

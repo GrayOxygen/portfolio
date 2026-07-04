@@ -4,7 +4,7 @@ description:
   'Juce, sub synthesis.'
 icon: "code"
 pubDate: "30 Jan 2025"
-heroImage: "/src/assets/audio_programming_logic.png"
+heroImage: "../../assets/audio_programming_logic.png"
 ---
  
 ## Audio Programming Music Piece
