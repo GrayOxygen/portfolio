@@ -3,7 +3,7 @@ title: "Live Performance"
 description:
   'Audiovisual.'
 icon: "performance"
-pubDate: "2 Dec 2024"
+pubDate: "2 Dec 2025"
 heroImage: "../../assets/audiovisual_performance_1.jpg"
 ---
 
@@ -13,8 +13,7 @@ This work aims to present a live music performance that generates all the sound 
 
 ![](../../assets/audiovisual_performance_1.jpg) 
 ![](../../assets/audiovisual_performance_2.jpg) 
-![](../../assets/audiovisual_performance_3.jpg) 
-
+ 
 
 [▶ If the video cannot be opened, please click](https://drive.google.com/file/d/1YSl0pkC_Ua82OZmnJ0fXj2rRyq--5ZfQ/view?usp=sharing)
 

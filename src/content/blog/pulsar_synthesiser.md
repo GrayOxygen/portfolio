@@ -7,7 +7,7 @@ pubDate: "2 Mar 2025"
 heroImage: "../../assets/pulsar.png"
 ---
 
-## Pulsar Synthesiser
+## Pulsar Synthesiser (Old Version)
 I performed in the **Reid School of Music Symposium** on 12/5/2025, demonstrating how my vocal recordings and chords undergo noticeable variations. I have implemented the pulsar synthesis method proposed by Curtis Roads, but made some changes, mainly including the introduction of euclid masking and the fact that it generates individual pulsars to form a pulsar train. In my implementation, specific pulsars are generated based on the pre-set train information. 
 
 [▶ If the video cannot be opened, please click](https://drive.google.com/file/d/1PlvjReWx_CAXWwXPGAGGQxmmaM66V0ao/view?usp=sharing)
